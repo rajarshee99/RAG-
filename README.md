@@ -1,2 +1,2 @@
-# RAG-
+# RAG
 My RAG projects
