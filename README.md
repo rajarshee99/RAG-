@@ -36,4 +36,7 @@ Final Answer
 🔄 Hybrid Retrieval (Optional) – BM25 + Dense
 🧠 Matryoshka Representation Learning (MRL) support
 📊 Multi-stage Retrieval (Coarse → Fine)
-🧱 Modular design (easy to swap components)
+🧱 Modular design 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 8, 2026, 04_38_32 PM" src="https://github.com/user-attachments/assets/47694483-4950-4844-a5d5-9480f99551cb" />
+
+
